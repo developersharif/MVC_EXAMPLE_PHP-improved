@@ -9,4 +9,4 @@ $rootPath = dirname(dirname(__FILE__));
 define('APPROOT', $rootPath);
 define('URLROOT', 'localhost/ecom');
 //SiteName
-define('siteName', 'SiteName');
+define('SITENAME', 'SiteName');
